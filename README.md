@@ -1,8 +1,24 @@
-# Hi, I'm Andre
+# Hi, I'm Andre Kalberer
+
+I build web and desktop applications with TypeScript, JavaScript, and Python.
+My projects explore real-time AI interfaces, cross-platform applications, and reinforcement learning.
+
+[LinkedIn](https://www.linkedin.com/in/andre-kalberer-907aa1220)
+
+## Selected projects
+
+- **[AI Debate Arena](https://github.com/AndreKalberer/ai-debate-arena)** — React and TypeScript application that coordinates multiple AI providers, streams responses over SSE, and saves debate history. [Live demo](https://aidebatearena.vercel.app)
+- **[Harbor](https://github.com/AndreKalberer/harbor)** — Electron entertainment hub with local library state, desktop and TV interfaces, automated checks, and platform packaging.
+- **[Tetris DQN](https://github.com/AndreKalberer/Tetris-rl-dqn)** — Python reinforcement learning project that turns Tetris controls into piece-placement actions using Gymnasium, Stable-Baselines3, and PyTorch.
 
 ## Open-source contributions
 
 **9 merged pull requests across 5 projects**, contributing to Warp and the Model Context Protocol ecosystem.
+
+Selected contributions include [Windows build dependencies for Warp](https://github.com/warpdotdev/warp/pull/13532), [standard MCP POST headers in the Kotlin SDK](https://github.com/modelcontextprotocol/kotlin-sdk/pull/894), and [Windows stdio guidance in the Python SDK](https://github.com/modelcontextprotocol/python-sdk/pull/3079).
+
+<details>
+<summary>All 9 merged contributions</summary>
 
 ### [Warp](https://github.com/warpdotdev/warp)
 
@@ -28,19 +44,8 @@
 
 - [Add an experimental findings template — #112](https://github.com/modelcontextprotocol/ext-skills/pull/112)
 
-<details>
-<summary>Other submitted pull requests — 5 closed, unmerged proposals</summary>
-
-These proposals were submitted to Warp and closed without merging.
-
-- [Install libclang and protoc in Windows bootstrap — #10911](https://github.com/warpdotdev/warp/pull/10911)
-- [Fix Windows Ctrl+J handling in ConPTY — #13120](https://github.com/warpdotdev/warp/pull/13120)
-- [Fix Windows PTY shutdown process cleanup — #13416](https://github.com/warpdotdev/warp/pull/13416)
-- [Force PTY allocation in the SSH wrapper — #13535](https://github.com/warpdotdev/warp/pull/13535)
-- [Prevent stale share modal rendering — #13867](https://github.com/warpdotdev/warp/pull/13867)
-
 </details>
 
 [Browse my public external pull requests](https://github.com/search?q=is%3Apr+is%3Apublic+author%3AAndreKalberer+-user%3AAndreKalberer&type=pullrequests)
 
-<sub>Pull request statuses verified October 21, 2026.</sub>
+<sub>Contribution statuses verified October 21, 2026.</sub>
