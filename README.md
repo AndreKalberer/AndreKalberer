@@ -1,7 +1,6 @@
 # Hi, I'm Andre Kalberer
 
-I build web and desktop applications with TypeScript, JavaScript, and Python.
-My projects explore real-time AI interfaces, cross-platform applications, and reinforcement learning.
+Working on developer tools, open source, and personal projects. Using AI to build and explore software, with an interest in Linux and computer systems.
 
 [LinkedIn](https://www.linkedin.com/in/andre-kalberer-907aa1220)
 
@@ -13,7 +12,9 @@ My projects explore real-time AI interfaces, cross-platform applications, and re
 
 ## Open-source contributions
 
-**9 merged pull requests across 5 projects**, contributing to Warp and the Model Context Protocol ecosystem.
+I contribute to Warp and the Model Context Protocol (MCP), an open-source protocol created by Anthropic.
+
+**9 merged pull requests across 5 projects.**
 
 Selected contributions include [Windows build dependencies for Warp](https://github.com/warpdotdev/warp/pull/13532), [standard MCP POST headers in the Kotlin SDK](https://github.com/modelcontextprotocol/kotlin-sdk/pull/894), and [Windows stdio guidance in the Python SDK](https://github.com/modelcontextprotocol/python-sdk/pull/3079).
 
