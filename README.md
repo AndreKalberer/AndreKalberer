@@ -8,7 +8,7 @@ Working on developer tools, open source, and personal projects. Using AI to buil
 
 - **[AI Debate Arena](https://github.com/AndreKalberer/ai-debate-arena)** — React and TypeScript application that coordinates multiple AI providers, streams responses over SSE, and saves debate history. [Live demo](https://aidebatearena.vercel.app)
 - **[Harbor](https://github.com/AndreKalberer/harbor)** — Electron entertainment hub with local library state, desktop and TV interfaces, automated checks, and platform packaging.
-- **[Tetris DQN](https://github.com/AndreKalberer/Tetris-rl-dqn)** — Python reinforcement learning project that turns Tetris controls into piece-placement actions using Gymnasium, Stable-Baselines3, and PyTorch.
+- **[NES-tetris-ai](https://github.com/AndreKalberer/Tetris-rl-dqn)** — Python reinforcement learning project that turns Tetris controls into piece-placement actions using Gymnasium, Stable-Baselines3, and PyTorch.
 
 ## Open-source contributions
 
